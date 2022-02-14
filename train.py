@@ -16,7 +16,7 @@ model_args = {
     "reprocess_input_data": True,
     "overwrite_output_dir": True,
     "max_seq_length": 50,
-    "train_batch_size": 100,
+    "train_batch_size": 20,
     "num_train_epochs": 20,
     "save_eval_checkpoints": False,
     "save_model_every_epoch": False,
